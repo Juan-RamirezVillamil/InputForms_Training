@@ -1,6 +1,6 @@
 {
-  "name": "Auxis-ReFramework",
-  "description": "Auxis Robotic Enterprise Framework",
+  "name": "InputForms_Challenge",
+  "description": "Solution of Input Forms Challenge with Auxis Reframework",
   "main": "Main.xaml",
   "dependencies": {
     "Auxis.Core.Activities": "[0.0.2]",
